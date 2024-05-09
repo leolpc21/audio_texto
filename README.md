@@ -34,20 +34,20 @@ Este repositório fornece um script Python que utiliza a biblioteca Google Gener
 
 **Código 1: Instalação da Biblioteca e Configuração da API**
 
-[![image](https://github.com/leolpc21/voz_para_todos/assets/43275999/0634c322-5a67-48a3-80cf-ad9c15f06160)]
+![image](https://github.com/leolpc21/voz_para_todos/assets/43275999/0634c322-5a67-48a3-80cf-ad9c15f06160)
 
 **Descrição:** Este código instala a biblioteca Google Generative AI e configura a API usando sua chave de API do GCP.
 
 **Código 2: Simulação de Upload de Arquivo e Geração de Conteúdo**
 
-[![image](https://github.com/leolpc21/voz_para_todos/assets/43275999/82f774df-c3e8-460e-a449-bc612e94fdc0)]
+![image](https://github.com/leolpc21/voz_para_todos/assets/43275999/82f774df-c3e8-460e-a449-bc612e94fdc0)
 
 **Descrição:** Este código simula o upload de um arquivo de áudio e utiliza o modelo Gemini 1.5 Pro-Latest para gerar texto a partir da transcrição do áudio.
 
 **Código 3: Formatação e Exibição do Resultado**
 
-[![image](https://github.com/leolpc21/voz_para_todos/assets/43275999/4eac3103-e1eb-43a7-8526-0eb3e405a066)]
-[![image](https://github.com/leolpc21/voz_para_todos/assets/43275999/b7a1fbd7-1602-4770-a743-48fa2b01c188)]
+![image](https://github.com/leolpc21/voz_para_todos/assets/43275999/4eac3103-e1eb-43a7-8526-0eb3e405a066)
+![image](https://github.com/leolpc21/voz_para_todos/assets/43275999/b7a1fbd7-1602-4770-a743-48fa2b01c188)
 
 **Descrição:** Este código formata o texto gerado pelo modelo em Markdown e o exibe na tela do usuário.
 
